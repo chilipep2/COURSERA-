@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## COURSERA TEST
 
 You can use the [editor on GitHub](https://github.com/chilipep2/COURSERA-TEST/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
